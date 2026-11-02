@@ -1,0 +1,8 @@
+product,segment,n,long_run,n_downturn,downturn,thin,thin_downturn
+HP,LTV <0.80,240,0.194228,72,0.291556,False,True
+HP,LTV 0.80-1.00,382,0.262116,78,0.37557,False,True
+HP,LTV 1.00-1.20,320,0.312853,65,0.412393,False,True
+HP,LTV >=1.20,276,0.351888,62,0.410444,False,True
+PL,EAD < 100k,667,0.564343,193,0.725178,False,True
+PL,EAD >= 100k,765,0.61608,241,0.769907,False,False
+CC,all,426,0.549093,112,0.71129,False,True
